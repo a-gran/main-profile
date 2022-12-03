@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/main-profile/static/css/main.95e385b9.css",
+    "main.js": "/main-profile/static/js/main.bafb8a60.js",
+    "static/media/AShramko2.jpg": "/main-profile/static/media/AShramko2.8c053633ab947972420a.jpg",
+    "static/media/AShramko.pdf": "/main-profile/static/media/AShramko.a32cdf5625b897e29a80.pdf",
+    "index.html": "/main-profile/index.html",
+    "main.95e385b9.css.map": "/main-profile/static/css/main.95e385b9.css.map",
+    "main.bafb8a60.js.map": "/main-profile/static/js/main.bafb8a60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95e385b9.css",
+    "static/js/main.bafb8a60.js"
+  ]
+}
