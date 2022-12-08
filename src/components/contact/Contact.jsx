@@ -55,6 +55,16 @@ const Contact = () => {
 
                     <form className='contact__form'>
                         <div className='contact__form-div'>
+                            <label className='contact__form-tag'>Name</label>
+                            <input
+                                type='name'
+                                name='name'
+                                className='contact__form-input'
+                                placeholder='Insert your name'
+                            />
+                        </div>
+
+                        <div className='contact__form-div'>
                             <label className='contact__form-tag'>Mail</label>
                             <input
                                 type='email'
@@ -64,7 +74,7 @@ const Contact = () => {
                             />
                         </div>
 
-                        <div className='contact__form-div'>
+                        <div className='contact__form-div contact__form-area'>
                             <label className='contact__form-tag'>Project</label>
                             <textarea
                                 name="project"
