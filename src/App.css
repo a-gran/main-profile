@@ -10,9 +10,9 @@
     --hue: 0;
     --sat: 0%;
     --title-color: hsl(var(--hue), var(--sat), 20%);
-    --title-color-tur: turquoise;
     --text-color: hsl(var(--hue), var(--sat), 46%);
     --body-color: hsl(var(--hue), var(--sat), 98%);
+    --title-color-tur: turquoise;
     --container-color: #fff;
 
     /*========== Font and typography ==========*/
