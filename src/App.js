@@ -8,23 +8,25 @@ import Services from "./components/services/Services"
 import Qualifications from "./components/qualification/Qualifications"
 import Testimonials from "./components/testimonials/Testimonials"
 import Contact from "./components/contact/Contact"
+import Footer from "./components/footer/Footer"
 
 function App() {
-	return (
-		<>
-			<Header />
+    return (
+        <>
+            <Header />
 
-			<main className="main">
-				<Home />
-				<About />
-				<Skills />
-				<Services />
-				<Qualifications />
-				<Testimonials />
-				<Contact />
-			</main>
-		</>
-	)
+            <main className="main">
+                <Home />
+                <About />
+                <Skills />
+                <Services />
+                <Qualifications />
+                <Testimonials />
+                <Contact />
+                <Footer />
+            </main>
+        </>
+    )
 }
 
 export default App
