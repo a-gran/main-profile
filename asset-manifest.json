@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/main-profile/static/css/main.9e5bf5a6.css",
-    "main.js": "/main-profile/static/js/main.8d2edd6d.js",
+    "main.css": "/main-profile/static/css/main.1ea8cbba.css",
+    "main.js": "/main-profile/static/js/main.8bb59e1b.js",
     "static/media/AShramko2.jpg": "/main-profile/static/media/AShramko2.8c053633ab947972420a.jpg",
     "static/media/AShramko.pdf": "/main-profile/static/media/AShramko.a32cdf5625b897e29a80.pdf",
-    "static/media/testimonial3.png": "/main-profile/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/testimonial2.png": "/main-profile/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/testimonial1.png": "/main-profile/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/main-profile/index.html",
-    "main.9e5bf5a6.css.map": "/main-profile/static/css/main.9e5bf5a6.css.map",
-    "main.8d2edd6d.js.map": "/main-profile/static/js/main.8d2edd6d.js.map"
+    "main.1ea8cbba.css.map": "/main-profile/static/css/main.1ea8cbba.css.map",
+    "main.8bb59e1b.js.map": "/main-profile/static/js/main.8bb59e1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e5bf5a6.css",
-    "static/js/main.8d2edd6d.js"
+    "static/css/main.1ea8cbba.css",
+    "static/js/main.8bb59e1b.js"
   ]
 }
