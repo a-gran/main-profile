@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Frontend = () => {
+const Instruments = () => {
     return (
         <div className='skills__content'>
-            <div className='skills__title'>Frontend</div>
+            <div className='skills__title'>Instruments</div>
 
             <div className='skills__box'>
                 <div className='skills__group'>
@@ -11,8 +11,8 @@ const Frontend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>HTML</h3>
-                            <span className='skills__level'>Advanced</span>
+                            <h3 className='skills__name'>Git</h3>
+                            <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
 
@@ -20,8 +20,8 @@ const Frontend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>CSS</h3>
-                            <span className='skills__level'>Advanced</span>
+                            <h3 className='skills__name'>CMS</h3>
+                            <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
 
@@ -29,7 +29,7 @@ const Frontend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>JavaScript</h3>
+                            <h3 className='skills__name'>Sass</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
@@ -40,7 +40,7 @@ const Frontend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>Bootstrap</h3>
+                            <h3 className='skills__name'>Gulp</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ const Frontend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>BEM</h3>
+                            <h3 className='skills__name'>Figma</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
@@ -58,8 +58,8 @@ const Frontend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>React</h3>
-                            <span className='skills__level'>Basic</span>
+                            <h3 className='skills__name'>Trello</h3>
+                            <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
                 </div>
@@ -68,4 +68,4 @@ const Frontend = () => {
     )
 }
 
-export default Frontend
+export default Instruments
