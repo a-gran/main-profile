@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/main-profile/static/css/main.1ea8cbba.css",
-    "main.js": "/main-profile/static/js/main.000a80b6.js",
+    "main.js": "/main-profile/static/js/main.ed6b9f39.js",
     "static/media/AShramko2.jpg": "/main-profile/static/media/AShramko2.8c053633ab947972420a.jpg",
     "static/media/AShramko.pdf": "/main-profile/static/media/AShramko.a32cdf5625b897e29a80.pdf",
     "index.html": "/main-profile/index.html",
     "main.1ea8cbba.css.map": "/main-profile/static/css/main.1ea8cbba.css.map",
-    "main.000a80b6.js.map": "/main-profile/static/js/main.000a80b6.js.map"
+    "main.ed6b9f39.js.map": "/main-profile/static/js/main.ed6b9f39.js.map"
   },
   "entrypoints": [
     "static/css/main.1ea8cbba.css",
-    "static/js/main.000a80b6.js"
+    "static/js/main.ed6b9f39.js"
   ]
 }
