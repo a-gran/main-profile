@@ -17,7 +17,7 @@ const About = () => {
                     <Info />
 
                     <p className='about__description'>
-                        Frontend developer, I create web pages UI / UX user interface, I have 1 year of expereance. This is my first page on React.
+                        QA engineer. Worked on online stores and business card websites. Tested UI/UX user interface and backend. Have experience in layout, front-end development, technical support and content management
                     </p>
 
                     <a href={CV} className='button button--flex' download>Download CV

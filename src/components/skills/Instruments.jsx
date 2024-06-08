@@ -29,7 +29,7 @@ const Instruments = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>Sass</h3>
+                            <h3 className='skills__name'>Postman</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
@@ -40,7 +40,7 @@ const Instruments = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>Gulp</h3>
+                            <h3 className='skills__name'>Linux</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
@@ -58,7 +58,7 @@ const Instruments = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className='skills__name'>Trello</h3>
+                            <h3 className='skills__name'>Yandex Tracker</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
